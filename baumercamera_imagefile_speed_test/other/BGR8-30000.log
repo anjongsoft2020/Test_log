@@ -1,0 +1,42 @@
+2021-05-24 19:00:20,011 [MainThread  ] [INFO ]  start main
+2021-05-24 19:00:21,425 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-24 19:00:21,506 [MainThread  ] [INFO ]  Exposure =30000.0
+2021-05-24 19:00:21,636 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-24 19:00:21,735 [MainThread  ] [INFO ]  PixelFormat = BGR8
+2021-05-24 19:00:21,799 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-24 19:00:28,769 [MainThread  ] [INFO ]  ImageID[1]-BGR_data[X0,Y0]: [99 78 87]
+2021-05-24 19:00:29,285 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.7778731990001688s.
+2021-05-24 19:00:30,323 [MainThread  ] [INFO ]  ImageID[2]-BGR_data[X0,Y0]: [93 83 85]
+2021-05-24 19:00:30,762 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6683846619998803s.
+2021-05-24 19:00:31,804 [MainThread  ] [INFO ]  ImageID[3]-BGR_data[X0,Y0]: [94 81 86]
+2021-05-24 19:00:32,243 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6714128390012775s.
+2021-05-24 19:00:32,879 [MainThread  ] [INFO ]  ImageID[4]-BGR_data[X0,Y0]: [82 84 86]
+2021-05-24 19:00:33,321 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6707755310017092s.
+2021-05-24 19:00:33,386 [MainThread  ] [INFO ]  ImageID[5]-BGR_data[X0,Y0]: [94 81 85]
+2021-05-24 19:00:33,828 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5040410600013274s.
+2021-05-24 19:00:34,463 [MainThread  ] [INFO ]  ImageID[6]-BGR_data[X0,Y0]: [86 89 80]
+2021-05-24 19:00:34,902 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6685200529973372s.
+2021-05-24 19:00:35,538 [MainThread  ] [INFO ]  ImageID[7]-BGR_data[X0,Y0]: [89 90 81]
+2021-05-24 19:00:35,983 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.67208902800121s.
+2021-05-24 19:00:36,046 [MainThread  ] [INFO ]  ImageID[8]-BGR_data[X0,Y0]: [67 93 84]
+2021-05-24 19:00:36,509 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.521967679997033s.
+2021-05-24 19:00:36,618 [MainThread  ] [INFO ]  ImageID[9]-BGR_data[X0,Y0]: [85 84 87]
+2021-05-24 19:00:37,081 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5679400349981734s.
+2021-05-24 19:00:37,145 [MainThread  ] [INFO ]  ImageID[10]-BGR_data[X0,Y0]: [84 83 86]
+2021-05-24 19:00:37,611 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5254363189997093s.
+2021-05-24 19:00:37,718 [MainThread  ] [INFO ]  ImageID[11]-BGR_data[X0,Y0]: [88 85 86]
+2021-05-24 19:00:38,165 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5505168909985514s.
+2021-05-24 19:00:38,246 [MainThread  ] [INFO ]  ImageID[12]-BGR_data[X0,Y0]: [82 82 92]
+2021-05-24 19:00:38,699 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5303724949990283s.
+2021-05-24 19:00:38,800 [MainThread  ] [INFO ]  ImageID[13]-BGR_data[X0,Y0]: [67 82 94]
+2021-05-24 19:00:39,244 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5405218019986933s.
+2021-05-24 19:00:39,335 [MainThread  ] [INFO ]  ImageID[14]-BGR_data[X0,Y0]: [77 88 89]
+2021-05-24 19:00:39,782 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5349102149993996s.
+2021-05-24 19:00:39,879 [MainThread  ] [INFO ]  ImageID[15]-BGR_data[X0,Y0]: [93 79 89]
+2021-05-24 19:00:40,325 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.5402184020022105s.
+2021-05-24 19:00:42,972 [MainThread  ] [INFO ]  ImageID[16]-BGR_data[X0,Y0]: [88 84 88]
+2021-05-24 19:00:43,421 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6781877459980024s.
+2021-05-24 19:00:45,267 [MainThread  ] [INFO ]  ImageID[17]-BGR_data[X0,Y0]: [80 87 89]
+2021-05-24 19:00:45,710 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6754008610005258s.
+2021-05-24 19:00:47,552 [MainThread  ] [INFO ]  ImageID[18]-BGR_data[X0,Y0]: [78 89 81]
+2021-05-24 19:00:47,995 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.6720141370024066s.

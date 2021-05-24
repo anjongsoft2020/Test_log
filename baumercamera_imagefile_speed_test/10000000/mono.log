@@ -1,0 +1,9 @@
+2021-05-24 23:55:11,997 [MainThread  ] [INFO ]  start main
+2021-05-24 23:55:13,585 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-24 23:55:13,670 [MainThread  ] [INFO ]  Exposure =10000000.0
+2021-05-24 23:56:27,800 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-24 23:56:38,511 [MainThread  ] [INFO ]  PixelFormat = Mono8
+2021-05-24 23:56:49,160 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-24 23:58:33,105 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.19130774200311862s.
+2021-05-24 23:58:33,107 [MainThread  ] [INFO ]  ImageID[1]-Mono_data[X0,Y0]: 255
+2021-05-24 23:58:33,317 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4036274699974456s.

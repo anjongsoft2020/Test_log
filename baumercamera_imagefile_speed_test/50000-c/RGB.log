@@ -1,0 +1,78 @@
+2021-05-25 00:55:17,259 [MainThread  ] [INFO ]  start main
+2021-05-25 00:55:18,703 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-25 00:55:29,357 [MainThread  ] [INFO ]  Exposure =50000.0
+2021-05-25 00:55:29,825 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-25 00:55:29,921 [MainThread  ] [INFO ]  PixelFormat = RGB8
+2021-05-25 00:55:29,988 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-25 01:14:19,548 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.27563448999717366s.
+2021-05-25 01:14:19,565 [MainThread  ] [INFO ]  ImageID[1]-RGB_data[X0,Y0]: [49 48  0]
+2021-05-25 01:14:19,838 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5657845030000317s.
+2021-05-25 01:14:21,329 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2790660610044142s.
+2021-05-25 01:14:21,348 [MainThread  ] [INFO ]  ImageID[2]-RGB_data[X0,Y0]: [46 31  0]
+2021-05-25 01:14:21,616 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5658584810007596s.
+2021-05-25 01:14:27,971 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.3148562749993289s.
+2021-05-25 01:14:27,990 [MainThread  ] [INFO ]  ImageID[3]-RGB_data[X0,Y0]: [43 36  0]
+2021-05-25 01:14:28,263 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.6064930740030832s.
+2021-05-25 01:14:30,156 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2790904559951741s.
+2021-05-25 01:14:30,175 [MainThread  ] [INFO ]  ImageID[4]-RGB_data[X0,Y0]: [48 39  0]
+2021-05-25 01:14:30,444 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5666970249949372s.
+2021-05-25 01:14:31,125 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.27518237799813505s.
+2021-05-25 01:14:31,145 [MainThread  ] [INFO ]  ImageID[5]-RGB_data[X0,Y0]: [37 49  0]
+2021-05-25 01:14:31,414 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5638287519977894s.
+2021-05-25 01:14:32,126 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.3034992210014025s.
+2021-05-25 01:14:32,145 [MainThread  ] [INFO ]  ImageID[6]-RGB_data[X0,Y0]: [43 43  0]
+2021-05-25 01:14:32,413 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5902323160044034s.
+2021-05-25 01:14:32,609 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.1926492229977157s.
+2021-05-25 01:14:32,629 [MainThread  ] [INFO ]  ImageID[7]-RGB_data[X0,Y0]: [40 48  0]
+2021-05-25 01:14:32,897 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4803137790004257s.
+2021-05-25 01:14:33,162 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2611193659977289s.
+2021-05-25 01:14:33,181 [MainThread  ] [INFO ]  ImageID[8]-RGB_data[X0,Y0]: [35 43  0]
+2021-05-25 01:14:33,452 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5508934700046666s.
+2021-05-25 01:14:33,634 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.18017060800048057s.
+2021-05-25 01:14:33,653 [MainThread  ] [INFO ]  ImageID[9]-RGB_data[X0,Y0]: [28 51  0]
+2021-05-25 01:14:33,921 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.46693440200033365s.
+2021-05-25 01:14:37,017 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.27424435099965194s.
+2021-05-25 01:14:37,036 [MainThread  ] [INFO ]  ImageID[10]-RGB_data[X0,Y0]: [41 45  0]
+2021-05-25 01:14:37,305 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.562200357002439s.
+2021-05-25 01:14:37,530 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2228450789989438s.
+2021-05-25 01:14:37,550 [MainThread  ] [INFO ]  ImageID[11]-RGB_data[X0,Y0]: [40 53  0]
+2021-05-25 01:14:37,816 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5086785899984534s.
+2021-05-25 01:14:38,900 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.27483108400338097s.
+2021-05-25 01:14:38,919 [MainThread  ] [INFO ]  ImageID[12]-RGB_data[X0,Y0]: [46 48  0]
+2021-05-25 01:14:39,186 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5606992269968032s.
+2021-05-25 01:14:40,271 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.275315547005448s.
+2021-05-25 01:14:40,290 [MainThread  ] [INFO ]  ImageID[13]-RGB_data[X0,Y0]: [45 43  0]
+2021-05-25 01:14:40,549 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5536586250018445s.
+2021-05-25 01:14:41,230 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2737446760002058s.
+2021-05-25 01:14:41,250 [MainThread  ] [INFO ]  ImageID[14]-RGB_data[X0,Y0]: [35 46  0]
+2021-05-25 01:14:41,524 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5680200679998961s.
+2021-05-25 01:14:41,744 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2150263039948186s.
+2021-05-25 01:14:41,763 [MainThread  ] [INFO ]  ImageID[15]-RGB_data[X0,Y0]: [39 46  0]
+2021-05-25 01:14:42,007 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4789831829984905s.
+2021-05-25 01:14:42,258 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.24621806100185495s.
+2021-05-25 01:14:42,278 [MainThread  ] [INFO ]  ImageID[16]-RGB_data[X0,Y0]: [30 49 16]
+2021-05-25 01:14:42,579 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5676109279957018s.
+2021-05-25 01:14:42,786 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.20351658100116765s.
+2021-05-25 01:14:42,806 [MainThread  ] [INFO ]  ImageID[17]-RGB_data[X0,Y0]: [39 43  0]
+2021-05-25 01:14:43,065 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.482133839999733s.
+2021-05-25 01:14:43,285 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.21609777000412578s.
+2021-05-25 01:14:43,306 [MainThread  ] [INFO ]  ImageID[18]-RGB_data[X0,Y0]: [31 49  0]
+2021-05-25 01:14:43,605 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5367925800019293s.
+2021-05-25 01:14:43,794 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.1846264439955121s.
+2021-05-25 01:14:43,815 [MainThread  ] [INFO ]  ImageID[19]-RGB_data[X0,Y0]: [23 52  0]
+2021-05-25 01:14:44,099 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4895553269961965s.
+2021-05-25 01:14:44,305 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.20226523499877658s.
+2021-05-25 01:14:44,326 [MainThread  ] [INFO ]  ImageID[20]-RGB_data[X0,Y0]: [33 46  0]
+2021-05-25 01:14:44,619 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5167562029964756s.
+2021-05-25 01:14:44,815 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.1914542619997519s.
+2021-05-25 01:14:44,835 [MainThread  ] [INFO ]  ImageID[21]-RGB_data[X0,Y0]: [33 49  0]
+2021-05-25 01:14:45,128 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5046538300011889s.
+2021-05-25 01:14:45,335 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2030138479967718s.
+2021-05-25 01:14:45,357 [MainThread  ] [INFO ]  ImageID[22]-RGB_data[X0,Y0]: [52 43  0]
+2021-05-25 01:14:45,656 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5240693759988062s.
+2021-05-25 01:14:45,838 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.17789749000075972s.
+2021-05-25 01:14:45,858 [MainThread  ] [INFO ]  ImageID[23]-RGB_data[X0,Y0]: [42 51  0]
+2021-05-25 01:14:46,144 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4840365769996424s.
+2021-05-25 01:14:46,349 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2026512059965171s.
+2021-05-25 01:14:46,370 [MainThread  ] [INFO ]  ImageID[24]-RGB_data[X0,Y0]: [48 39  0]
+2021-05-25 01:14:46,652 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.5056719249987509s.

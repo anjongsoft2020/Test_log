@@ -1,0 +1,54 @@
+2021-05-24 21:10:15,232 [MainThread  ] [INFO ]  start main
+2021-05-24 21:10:16,649 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-24 21:10:17,846 [MainThread  ] [INFO ]  Exposure =1000000.0
+2021-05-24 21:10:26,117 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-24 21:10:27,344 [MainThread  ] [INFO ]  PixelFormat = BayerRG8
+2021-05-24 21:10:28,535 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-24 21:10:35,699 [MainThread  ] [INFO ]  ImageID[1]-Bayer_data[X0,Y0]: 137
+2021-05-24 21:10:35,699 [MainThread  ] [INFO ]  ImageID[1]-RGB_data[X0,Y0]: [135 130 141]
+2021-05-24 21:10:36,319 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.090031874999113s.
+2021-05-24 21:10:37,592 [MainThread  ] [INFO ]  ImageID[2]-Bayer_data[X0,Y0]: 142
+2021-05-24 21:10:37,592 [MainThread  ] [INFO ]  ImageID[2]-RGB_data[X0,Y0]: [137 131 145]
+2021-05-24 21:10:38,213 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0820841029999428s.
+2021-05-24 21:10:39,483 [MainThread  ] [INFO ]  ImageID[3]-Bayer_data[X0,Y0]: 140
+2021-05-24 21:10:39,483 [MainThread  ] [INFO ]  ImageID[3]-RGB_data[X0,Y0]: [138 131 143]
+2021-05-24 21:10:40,110 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0860119690041756s.
+2021-05-24 21:10:41,381 [MainThread  ] [INFO ]  ImageID[4]-Bayer_data[X0,Y0]: 141
+2021-05-24 21:10:41,381 [MainThread  ] [INFO ]  ImageID[4]-RGB_data[X0,Y0]: [134 130 143]
+2021-05-24 21:10:42,008 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.088531444002001s.
+2021-05-24 21:10:43,278 [MainThread  ] [INFO ]  ImageID[5]-Bayer_data[X0,Y0]: 139
+2021-05-24 21:10:43,278 [MainThread  ] [INFO ]  ImageID[5]-RGB_data[X0,Y0]: [135 132 145]
+2021-05-24 21:10:43,905 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0864398190024076s.
+2021-05-24 21:10:45,184 [MainThread  ] [INFO ]  ImageID[6]-Bayer_data[X0,Y0]: 140
+2021-05-24 21:10:45,184 [MainThread  ] [INFO ]  ImageID[6]-RGB_data[X0,Y0]: [135 132 143]
+2021-05-24 21:10:45,811 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0966125720005948s.
+2021-05-24 21:10:47,483 [MainThread  ] [INFO ]  ImageID[7]-Bayer_data[X0,Y0]: 145
+2021-05-24 21:10:47,483 [MainThread  ] [INFO ]  ImageID[7]-RGB_data[X0,Y0]: [139 136 147]
+2021-05-24 21:10:48,106 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0840602999960538s.
+2021-05-24 21:10:49,376 [MainThread  ] [INFO ]  ImageID[8]-Bayer_data[X0,Y0]: 140
+2021-05-24 21:10:49,376 [MainThread  ] [INFO ]  ImageID[8]-RGB_data[X0,Y0]: [134 132 143]
+2021-05-24 21:10:49,999 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0850329969980521s.
+2021-05-24 21:10:51,279 [MainThread  ] [INFO ]  ImageID[9]-Bayer_data[X0,Y0]: 136
+2021-05-24 21:10:51,279 [MainThread  ] [INFO ]  ImageID[9]-RGB_data[X0,Y0]: [129 131 142]
+2021-05-24 21:10:51,916 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.1084285010001622s.
+2021-05-24 21:10:53,185 [MainThread  ] [INFO ]  ImageID[10]-Bayer_data[X0,Y0]: 140
+2021-05-24 21:10:53,185 [MainThread  ] [INFO ]  ImageID[10]-RGB_data[X0,Y0]: [134 130 143]
+2021-05-24 21:10:53,809 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0827203279986861s.
+2021-05-24 21:10:55,085 [MainThread  ] [INFO ]  ImageID[11]-Bayer_data[X0,Y0]: 142
+2021-05-24 21:10:55,085 [MainThread  ] [INFO ]  ImageID[11]-RGB_data[X0,Y0]: [136 132 146]
+2021-05-24 21:10:55,707 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0896010439973907s.
+2021-05-24 21:11:06,638 [MainThread  ] [INFO ]  ImageID[12]-Bayer_data[X0,Y0]: 144
+2021-05-24 21:11:06,638 [MainThread  ] [INFO ]  ImageID[12]-RGB_data[X0,Y0]: [141 132 145]
+2021-05-24 21:11:07,257 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0807464169993182s.
+2021-05-24 21:11:08,934 [MainThread  ] [INFO ]  ImageID[13]-Bayer_data[X0,Y0]: 141
+2021-05-24 21:11:08,934 [MainThread  ] [INFO ]  ImageID[13]-RGB_data[X0,Y0]: [133 133 143]
+2021-05-24 21:11:09,558 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0875680940007442s.
+2021-05-24 21:11:10,829 [MainThread  ] [INFO ]  ImageID[14]-Bayer_data[X0,Y0]: 137
+2021-05-24 21:11:10,829 [MainThread  ] [INFO ]  ImageID[14]-RGB_data[X0,Y0]: [127 127 141]
+2021-05-24 21:11:11,454 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0856349940004293s.
+2021-05-24 21:11:12,724 [MainThread  ] [INFO ]  ImageID[15]-Bayer_data[X0,Y0]: 137
+2021-05-24 21:11:12,724 [MainThread  ] [INFO ]  ImageID[15]-RGB_data[X0,Y0]: [136 132 143]
+2021-05-24 21:11:13,350 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0866911639968748s.
+2021-05-24 21:11:14,624 [MainThread  ] [INFO ]  ImageID[16]-Bayer_data[X0,Y0]: 140
+2021-05-24 21:11:14,624 [MainThread  ] [INFO ]  ImageID[16]-RGB_data[X0,Y0]: [139 133 143]
+2021-05-24 21:11:15,254 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 1.0957332580001093s.

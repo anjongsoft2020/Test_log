@@ -1,0 +1,14 @@
+2021-05-24 23:20:31,475 [MainThread  ] [INFO ]  start main
+2021-05-24 23:20:33,043 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-24 23:20:33,191 [MainThread  ] [INFO ]  Exposure =30000.0
+2021-05-24 23:20:33,671 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-24 23:20:33,783 [MainThread  ] [INFO ]  PixelFormat = BGR8
+2021-05-24 23:20:33,846 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-24 23:20:39,202 [MainThread  ] [INFO ]  ImageID[1]-BGR_data[X0,Y0]: [ 0 33 16]
+2021-05-24 23:20:39,416 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.44801546400412917s.
+2021-05-24 23:20:39,705 [MainThread  ] [INFO ]  ImageID[2]-BGR_data[X0,Y0]: [ 0 20 38]
+2021-05-24 23:20:39,910 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.49147763299697544s.
+2021-05-24 23:20:41,352 [MainThread  ] [INFO ]  ImageID[3]-BGR_data[X0,Y0]: [26 39  0]
+2021-05-24 23:20:41,578 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.45586430100229336s.
+2021-05-24 23:20:41,861 [MainThread  ] [INFO ]  ImageID[4]-BGR_data[X0,Y0]: [ 0 41 20]
+2021-05-24 23:20:42,060 [MainThread  ] [INFO ]  = ======  ========Imgge Save duration was 0.48010205399623374s.

@@ -1,0 +1,18 @@
+2021-05-24 23:53:28,176 [MainThread  ] [INFO ]  start main
+2021-05-24 23:53:29,705 [MainThread  ] [INFO ]  ImageBufferCount:10
+2021-05-24 23:53:29,795 [MainThread  ] [INFO ]  Exposure =30000.0
+2021-05-24 23:53:30,278 [MainThread  ] [INFO ]  Width = 5472 / Height = 3648
+2021-05-24 23:53:30,394 [MainThread  ] [INFO ]  PixelFormat = Mono8
+2021-05-24 23:53:30,455 [MainThread  ] [INFO ]  TriggerMode = On
+2021-05-24 23:53:32,663 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.3297296179953264s.
+2021-05-24 23:53:32,665 [MainThread  ] [INFO ]  ImageID[1]-Mono_data[X0,Y0]: 43
+2021-05-24 23:53:32,748 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.4141304320000927s.
+2021-05-24 23:53:35,088 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.3236501950013917s.
+2021-05-24 23:53:35,090 [MainThread  ] [INFO ]  ImageID[2]-Mono_data[X0,Y0]: 38
+2021-05-24 23:53:35,164 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.39871337299700826s.
+2021-05-24 23:53:37,881 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.2981588559996453s.
+2021-05-24 23:53:37,882 [MainThread  ] [INFO ]  ImageID[3]-Mono_data[X0,Y0]: 39
+2021-05-24 23:53:37,953 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.37020418499741936s.
+2021-05-24 23:53:39,885 [MainThread  ] [INFO ]  --------------------- buffer Save duration was 0.3183928409998771s.
+2021-05-24 23:53:39,887 [MainThread  ] [INFO ]  ImageID[4]-Mono_data[X0,Y0]: 38
+2021-05-24 23:53:39,958 [MainThread  ] [INFO ]  = ==============Imgge Save duration was 0.39102737000212073s.
