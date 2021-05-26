@@ -1,0 +1,186 @@
+2021-05-26 16:51:33,944 [MainThread] [INFO] PixelFormat = BGR8
+2021-05-26 16:51:33,944 [MainThread] [INFO] TriggerMode = On us
+2021-05-26 16:51:33,952 [MainThread] [INFO] ExposureTime = 1.5e+06 us
+2021-05-26 16:51:33,954 [MainThread] [INFO] ReadoutTime = 104593 us
+2021-05-26 16:51:39,231 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:39,231 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.36625500256196ms.
+2021-05-26 16:51:40,419 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:40,419 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.9492320076097ms.
+2021-05-26 16:51:41,303 [MainThread] [INFO] ---ImageID[1]---
+2021-05-26 16:51:41,304 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:3.06180800544098ms.
+2021-05-26 16:51:41,327 [MainThread] [INFO] ProcessingTime[convert & reshape]:22.873045003507286ms.
+2021-05-26 16:51:41,376 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:49.248739989707246ms.
+2021-05-26 16:51:42,006 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:629.749976011226ms.
+2021-05-26 16:51:42,009 [MainThread] [INFO] ImageTimestamp[83253993780280ns]-BGR_data[X0,Y0]:[142 108 103]
+2021-05-26 16:51:42,009 [MainThread] [INFO] ---ImageID[1]---
+2021-05-26 16:51:42,432 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:42,432 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.6417099919636ms.
+2021-05-26 16:51:44,584 [MainThread] [INFO] ---ImageID[2]---
+2021-05-26 16:51:44,584 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:1.5311439929064363ms.
+2021-05-26 16:51:44,604 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.44894901337102ms.
+2021-05-26 16:51:44,654 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:49.90437501692213ms.
+2021-05-26 16:51:45,284 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:629.887326998869ms.
+2021-05-26 16:51:45,290 [MainThread] [INFO] ImageTimestamp[83256465669920ns]-BGR_data[X0,Y0]:[139 104 111]
+2021-05-26 16:51:45,290 [MainThread] [INFO] ---ImageID[2]---
+2021-05-26 16:51:45,698 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:45,698 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.47658897330984ms.
+2021-05-26 16:51:46,258 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:46,259 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.6107089992147ms.
+2021-05-26 16:51:46,593 [MainThread] [INFO] ---ImageID[3]---
+2021-05-26 16:51:46,593 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:20.69913802552037ms.
+2021-05-26 16:51:46,613 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.179083017865196ms.
+2021-05-26 16:51:46,662 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.515806993236765ms.
+2021-05-26 16:51:47,301 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:639.3750940042082ms.
+2021-05-26 16:51:47,304 [MainThread] [INFO] ImageTimestamp[83259747128680ns]-BGR_data[X0,Y0]:[141 101 109]
+2021-05-26 16:51:47,304 [MainThread] [INFO] ---ImageID[3]---
+2021-05-26 16:51:57,939 [MainThread] [INFO] ---ImageID[4]---
+2021-05-26 16:51:57,940 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:2.9775979928672314ms.
+2021-05-26 16:51:57,983 [MainThread] [INFO] ProcessingTime[convert & reshape]:42.57288700318895ms.
+2021-05-26 16:51:58,032 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:49.41329199937172ms.
+2021-05-26 16:51:58,667 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:634.7315099847037ms.
+2021-05-26 16:51:58,670 [MainThread] [INFO] ImageTimestamp[83261736882960ns]-BGR_data[X0,Y0]:[139  98 115]
+2021-05-26 16:51:58,670 [MainThread] [INFO] ---ImageID[4]---
+2021-05-26 16:51:59,075 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:59,075 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.54459501011297ms.
+2021-05-26 16:51:59,723 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:51:59,723 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.97978500509635ms.
+2021-05-26 16:51:59,948 [MainThread] [INFO] ---ImageID[5]---
+2021-05-26 16:51:59,948 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:38.47096997196786ms.
+2021-05-26 16:51:59,968 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.10547398822382ms.
+2021-05-26 16:52:00,016 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.03128200001083ms.
+2021-05-26 16:52:00,652 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:635.9955910011195ms.
+2021-05-26 16:52:00,655 [MainThread] [INFO] ImageTimestamp[83273101877240ns]-BGR_data[X0,Y0]:[135  99 114]
+2021-05-26 16:52:00,655 [MainThread] [INFO] ---ImageID[5]---
+2021-05-26 16:52:01,059 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:01,059 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.83171298122033ms.
+2021-05-26 16:52:01,462 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:01,462 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.73278798465617ms.
+2021-05-26 16:52:01,864 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:01,864 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.37421900383197ms.
+2021-05-26 16:52:01,921 [MainThread] [INFO] ---ImageID[6]---
+2021-05-26 16:52:01,921 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:56.87585400301032ms.
+2021-05-26 16:52:01,943 [MainThread] [INFO] ProcessingTime[convert & reshape]:21.975846990244463ms.
+2021-05-26 16:52:01,995 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:51.3769660028629ms.
+2021-05-26 16:52:02,661 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:665.6039319932461ms.
+2021-05-26 16:52:02,664 [MainThread] [INFO] ImageTimestamp[83275074096120ns]-BGR_data[X0,Y0]:[142 106 102]
+2021-05-26 16:52:02,664 [MainThread] [INFO] ---ImageID[6]---
+2021-05-26 16:52:03,067 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:03,067 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.665196986869ms.
+2021-05-26 16:52:03,469 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:03,470 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.57292201183736ms.
+2021-05-26 16:52:03,874 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:03,874 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:404.2146840074565ms.
+2021-05-26 16:52:03,882 [MainThread] [INFO] ---ImageID[7]---
+2021-05-26 16:52:03,882 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:8.206343016354367ms.
+2021-05-26 16:52:03,902 [MainThread] [INFO] ProcessingTime[convert & reshape]:19.503609975799918ms.
+2021-05-26 16:52:03,950 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.37032200885005ms.
+2021-05-26 16:52:04,602 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:651.7931800044607ms.
+2021-05-26 16:52:04,606 [MainThread] [INFO] ImageTimestamp[83277029303560ns]-BGR_data[X0,Y0]:[136 105 112]
+2021-05-26 16:52:04,606 [MainThread] [INFO] ---ImageID[7]---
+2021-05-26 16:52:05,010 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:05,010 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.8605030141771ms.
+2021-05-26 16:52:05,413 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:05,413 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.1386980020907ms.
+2021-05-26 16:52:05,482 [MainThread] [INFO] ---ImageID[8]---
+2021-05-26 16:52:05,482 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:69.20837901998311ms.
+2021-05-26 16:52:05,502 [MainThread] [INFO] ProcessingTime[convert & reshape]:19.462519005173817ms.
+2021-05-26 16:52:05,549 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:47.30116899008863ms.
+2021-05-26 16:52:06,177 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:627.8104250086471ms.
+2021-05-26 16:52:06,180 [MainThread] [INFO] ImageTimestamp[83278636329200ns]-BGR_data[X0,Y0]:[134 103 112]
+2021-05-26 16:52:06,180 [MainThread] [INFO] ---ImageID[8]---
+2021-05-26 16:52:06,584 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:06,585 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.7056709853932ms.
+2021-05-26 16:52:06,987 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:06,987 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.0077219756786ms.
+2021-05-26 16:52:07,390 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:07,390 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.9245499987155ms.
+2021-05-26 16:52:07,423 [MainThread] [INFO] ---ImageID[9]---
+2021-05-26 16:52:07,424 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:33.01973297493532ms.
+2021-05-26 16:52:07,444 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.087111013708636ms.
+2021-05-26 16:52:07,493 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.77587500959635ms.
+2021-05-26 16:52:08,126 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:633.2108299829997ms.
+2021-05-26 16:52:08,130 [MainThread] [INFO] ImageTimestamp[83280577823160ns]-BGR_data[X0,Y0]:[143 102 109]
+2021-05-26 16:52:08,130 [MainThread] [INFO] ---ImageID[9]---
+2021-05-26 16:52:08,534 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:08,534 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.53214501333423ms.
+2021-05-26 16:52:08,936 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:08,936 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.5564960136544ms.
+2021-05-26 16:52:09,338 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:09,338 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.2025890008081ms.
+2021-05-26 16:52:09,401 [MainThread] [INFO] ---ImageID[10]---
+2021-05-26 16:52:09,401 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:32.62166801141575ms.
+2021-05-26 16:52:09,422 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.366620999993756ms.
+2021-05-26 16:52:09,470 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.459160985657945ms.
+2021-05-26 16:52:10,112 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:641.2162939959671ms.
+2021-05-26 16:52:10,115 [MainThread] [INFO] ImageTimestamp[83282555460520ns]-BGR_data[X0,Y0]:[136 108 104]
+2021-05-26 16:52:10,115 [MainThread] [INFO] ---ImageID[10]---
+2021-05-26 16:52:10,518 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:10,519 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.66659900569357ms.
+2021-05-26 16:52:10,921 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:10,921 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.6784630075563ms.
+2021-05-26 16:52:11,379 [MainThread] [INFO] ---ImageID[11]---
+2021-05-26 16:52:11,379 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:325.46189898857847ms.
+2021-05-26 16:52:11,400 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.381807000376284ms.
+2021-05-26 16:52:11,449 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.96518000168726ms.
+2021-05-26 16:52:12,086 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:636.9050430075731ms.
+2021-05-26 16:52:12,090 [MainThread] [INFO] ImageTimestamp[83284533475480ns]-BGR_data[X0,Y0]:[133  99 116]
+2021-05-26 16:52:12,090 [MainThread] [INFO] ---ImageID[11]---
+2021-05-26 16:52:12,494 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:12,494 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.60601001116447ms.
+2021-05-26 16:52:12,896 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:12,896 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.4546450052876ms.
+2021-05-26 16:52:13,065 [MainThread] [INFO] ---ImageID[12]---
+2021-05-26 16:52:13,065 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:168.4051900228951ms.
+2021-05-26 16:52:13,085 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.490456983679906ms.
+2021-05-26 16:52:13,134 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.73837000923231ms.
+2021-05-26 16:52:13,770 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:635.766189021524ms.
+2021-05-26 16:52:13,774 [MainThread] [INFO] ImageTimestamp[83286218867000ns]-BGR_data[X0,Y0]:[139 109 106]
+2021-05-26 16:52:13,774 [MainThread] [INFO] ---ImageID[12]---
+2021-05-26 16:52:14,178 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:14,178 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.08260700455867ms.
+2021-05-26 16:52:14,581 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:14,581 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.62876702379435ms.
+2021-05-26 16:52:14,907 [MainThread] [INFO] ---ImageID[13]---
+2021-05-26 16:52:14,907 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:326.11085500684567ms.
+2021-05-26 16:52:14,926 [MainThread] [INFO] ProcessingTime[convert & reshape]:19.400539982598275ms.
+2021-05-26 16:52:14,977 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:50.697724014753476ms.
+2021-05-26 16:52:15,620 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:642.7976810082328ms.
+2021-05-26 16:52:15,623 [MainThread] [INFO] ImageTimestamp[83288061068840ns]-BGR_data[X0,Y0]:[141  98 111]
+2021-05-26 16:52:15,623 [MainThread] [INFO] ---ImageID[13]---
+2021-05-26 16:52:16,029 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:16,029 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.87866300786845ms.
+2021-05-26 16:52:16,432 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:16,432 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.8621190043632ms.
+2021-05-26 16:52:16,591 [MainThread] [INFO] ---ImageID[14]---
+2021-05-26 16:52:16,592 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:158.9814960025251ms.
+2021-05-26 16:52:16,612 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.2352219785098ms.
+2021-05-26 16:52:16,660 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:48.041856003692374ms.
+2021-05-26 16:52:17,316 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:655.8505239954684ms.
+2021-05-26 16:52:17,320 [MainThread] [INFO] ImageTimestamp[83289745683360ns]-BGR_data[X0,Y0]:[140 102 108]
+2021-05-26 16:52:17,320 [MainThread] [INFO] ---ImageID[14]---
+2021-05-26 16:52:17,724 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:17,724 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.6785259882454ms.
+2021-05-26 16:52:18,443 [MainThread] [INFO] ---ImageID[15]---
+2021-05-26 16:52:18,443 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:87.07706799032167ms.
+2021-05-26 16:52:18,463 [MainThread] [INFO] ProcessingTime[convert & reshape]:19.905750988982618ms.
+2021-05-26 16:52:18,513 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:49.67311199288815ms.
+2021-05-26 16:52:19,153 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:640.2392640011385ms.
+2021-05-26 16:52:19,157 [MainThread] [INFO] ImageTimestamp[83291597500320ns]-BGR_data[X0,Y0]:[144 103 107]
+2021-05-26 16:52:19,157 [MainThread] [INFO] ---ImageID[15]---
+2021-05-26 16:52:19,561 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:19,561 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.6250770073384ms.
+2021-05-26 16:52:20,316 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:20,316 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.4433619924821ms.
+2021-05-26 16:52:20,408 [MainThread] [INFO] ---ImageID[16]---
+2021-05-26 16:52:20,408 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:2.0962629932910204ms.
+2021-05-26 16:52:20,428 [MainThread] [INFO] ProcessingTime[convert & reshape]:20.222980994731188ms.
+2021-05-26 16:52:20,478 [MainThread] [INFO] ProcessingTime[buffer.Save (bmp)]:49.306875007459894ms.
+2021-05-26 16:52:21,122 [MainThread] [INFO] ProcessingTime[cv2.imwrite (png)]:643.5332039836794ms.
+2021-05-26 16:52:21,125 [MainThread] [INFO] ImageTimestamp[83293521069400ns]-BGR_data[X0,Y0]:[142 108 103]
+2021-05-26 16:52:21,125 [MainThread] [INFO] ---ImageID[16]---
+2021-05-26 16:52:21,529 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:21,529 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.7672630143352ms.
+2021-05-26 16:52:21,931 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:21,931 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:401.5188479970675ms.
+2021-05-26 16:52:22,333 [MainThread] [INFO] ---ImageID[0]---
+2021-05-26 16:52:22,334 [MainThread] [INFO] Time Gap[Trigger() -> GetImage()]:402.30360900750384ms.
